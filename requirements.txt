@@ -1,0 +1,16 @@
+# AI Security Alert System - Requirements
+
+opencv-python>=4.8.0
+numpy>=1.24.0
+torch>=2.0.0
+torchvision>=0.15.0
+pyaudio>=0.2.13
+pandas>=2.0.0
+
+# Optional but recommended
+Pillow>=10.0.0
+scipy>=1.11.0
+
+# For advanced features (optional)
+# face-recognition>=1.3.0  # Better face recognition
+# tensorflow>=2.13.0  # Alternative to PyTorch
